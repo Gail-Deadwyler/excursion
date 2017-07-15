@@ -1,0 +1,2 @@
+# excursion
+In this project, I'm creating a web page which advertises a product called "Excursion. The web page will advertise a mobile app which helps users record and share their experiences. This landing page is a vital tool in marketing a product these days, and the goal will be to entice potential customers into using the product. This project will use my growing toolset of: HTML, CSS, Command Line Interface, Git, and GitHub.
