@@ -1,3 +1,4 @@
+/* Styling for Excursion project */
 html {
   font-family: Verdana;
   text-align: center;
@@ -18,4 +19,15 @@ a {
 h2 {
   font-weight: 300;
   font-size: 42px;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: grey;
+}
+
+.footer {
+  text-align: right;
+  color: grey;
 }
